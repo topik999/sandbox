@@ -1,0 +1,9 @@
+{
+  "name": "sandbox-node-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js WebSocket multiplayer server for Sandbox",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"ws": "^8.18.0"}
+}
